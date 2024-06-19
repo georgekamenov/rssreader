@@ -1,0 +1,53 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <SwitchPreferenceCompat
+            app:key="bbc_top_stories"
+            android:defaultValue="true"
+            app:title="@string/bbc_top_stories" />
+        <SwitchPreferenceCompat
+            app:key="bbc_world"
+            android:defaultValue="true"
+            app:title="@string/bbc_world" />
+        <SwitchPreferenceCompat
+            app:key="bbc_europe"
+            android:defaultValue="true"
+            app:title="@string/bbc_europe" />
+        <SwitchPreferenceCompat
+            app:key="bbc_uk"
+            android:defaultValue="true"
+            app:title="@string/bbc_uk" />
+        <SwitchPreferenceCompat
+            app:key="bbc_business"
+            android:defaultValue="true"
+            app:title="@string/bbc_business" />
+        <SwitchPreferenceCompat
+            app:key="bbc_politics"
+            android:defaultValue="true"
+            app:title="@string/bbc_politics" />
+        <SwitchPreferenceCompat
+            app:key="bbc_health"
+            android:defaultValue="true"
+            app:title="@string/bbc_health" />
+        <SwitchPreferenceCompat
+            app:key="bbc_education_and_family"
+            android:defaultValue="true"
+            app:title="@string/bbc_education_and_family" />
+        <SwitchPreferenceCompat
+            app:key="bbc_science_and_environment"
+            android:defaultValue="true"
+            app:title="@string/bbc_science_and_environment" />
+        <SwitchPreferenceCompat
+            app:key="bbc_technology"
+            android:defaultValue="true"
+            app:title="@string/bbc_technology" />
+        <SwitchPreferenceCompat
+            app:key="bbc_entertainment_and_arts"
+            android:defaultValue="true"
+            app:title="@string/bbc_entertainment_and_arts" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

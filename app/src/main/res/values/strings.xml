@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">RSSReader</string>
+    <string name="Prev">Prev</string>
+    <string name="Next">Next</string>
+    <string name="settingsButton">Settings</string>
+    <string name="textFeedName">Loading feeds...</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Feed Sources</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="bbc_top_stories">BBC Top Stories</string>
+    <string name="bbc_world">BBC World</string>
+    <string name="bbc_europe">BBC Europe</string>
+    <string name="bbc_uk">BBC UK</string>
+    <string name="bbc_business">BBC Business</string>
+    <string name="bbc_politics">BBC Politics</string>
+    <string name="bbc_health">BBC Health</string>
+    <string name="bbc_education_and_family">BBC Education and Family</string>
+    <string name="bbc_science_and_environment">BBC Science and Environment</string>
+    <string name="bbc_technology">Technology</string>
+    <string name="bbc_entertainment_and_arts">Entertainment and Arts</string>
+</resources>
